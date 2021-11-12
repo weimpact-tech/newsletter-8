@@ -1,24 +1,22 @@
 {
   "previa": "Prévia JSON",
   "artigoDestaque": {
-    "numeroEdicao": "5",
+    "numeroEdicao": "8",
     "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
     "img": "./img/Imagem_Destaque_N08.png",
-    "alt": "Mulher olhando para o espelho",
-    "titulo": "Usando a lente de gênero para se olhar no espelho",
+    "alt": "Sinqia + We Impact",
+    "titulo": "De olho nas fintechs com liderança feminina",
     "texto": [
-      "A lente de gênero tem sido cada vez mais utilizada por investidores da América Latina, e eles já entenderam que essa não se trata apenas de mais uma tendência. O relatório “Catalisando a Igualdade”, lançado recentemente pela Value For Women em parceria com o Programa Ganha-Ganha da ONU Mulheres, e do qual tive a oportunidade de participar, mostrou que 59% dos veículos de investimento entrevistados contam com alguma estratégia voltada a gênero, enquanto outros 34% estão no processo de desenvolvê-las. Além disso, quase metade (48%) oferece fundos específicos para empresas lideradas por mulheres ou que promovam de alguma forma a igualdade de gênero.",
-      "A lente de gênero está no “S” de ESG: a vertente social do conceito que chama empresas à responsabilidade pelas transformações necessárias na sociedade e vem ditando as regras de boas práticas de mercado em todo o mundo. Na minha opinião, um dos meios mais eficientes para promover tais transformações é dando o exemplo positivo. E é justamente nisso que muitos investidores ainda podem e precisam melhorar.",
-      "Apesar das crescentes iniciativas que utilizam lentes de gênero na busca de novos ativos, o mesmo relatório mostra que mulheres representam apenas 37% dos cargos de decisão sênior, só um terço (34%) dos comitês de conselho e investimento e pouco mais de um terço (37%) dos cargos executivos entre as empresas pesquisadas.",
-      "Mesmo reconhecendo que a presença de investidoras e diversidade dentro dos fundos de investimento é um ingrediente-chave para o avanço nessa agenda, apenas uma pequena parte deles realiza ações específicas para promover as mulheres internamente, a níveis de liderança e tomada de decisões.",
-      "Quando começamos o nosso trabalho de apoio a startups fundadas por mulheres aqui no Brasil, não tínhamos dados como esses - e nem mesmo que mostrassem a participação feminina no mercado de tecnologia. Felizmente, a quantidade e a qualidade de estudos e mapeamentos realizados por aqui está crescendo com bastante rapidez, o que nos ajuda a entender melhor o estado da arte desse ecossistema no que diz respeito a gênero.",
-      "No fim do dia, faltam modelos positivos e vozes femininas para levar a expansão do investimento com lente de gênero a um novo patamar. Estruturas de classe, machismo e privilégio ainda dificultam uma mudança sistêmica nos fundos, e isso também se reflete na falta de profundidade de muitas daquelas iniciativas voltadas para os seus portfólios.",
-      "Quando se investe em negócios liderados por mulheres, é preciso também apoiá-los, e não esperar que tenham impacto somente porque há liderança feminina. Não se pode esperar apenas investir o dinheiro e ter uma transformação mágica. Temos a responsabilidade de dar suporte ao seu desenvolvimento - e não simplesmente dizer ‘procuramos e não encontramos nada que atendesse aos critérios’.",
-      "Para os que começaram o movimento, é hora não só de olhar-se no espelho e colocar em prática o que pregam para as startups que buscam, mas também de dar o próximo passo: estabelecer metas específicas de negócios liderados por mulheres no portfólio (41% já possuem), incorporar essa lente no processo de due diligence (41%), apoiar as startups já investidas a aplicá-la em seus modelos de negócios (34%), e observar, além da participação feminina, 1) como promovem igualdade de gênero na sua cadeia de abastecimento e 2) se consideram as necessidades de mulheres e meninas em suas soluções.",
-      "Nós, investidoras e investidores, precisamos construir essa mudança."
+      "A <a href=\"https://www.sinqia.com.br/\" target=\"_blank\">Sinqia</a>, <b>líder em softwares e serviços para o setor financeiro no Brasil</b>, é nossa mais nova aliada na missão de promover uma maior equidade de gênero no ecossistema de tecnologia e inovação!",
+      "Super conectada a estratégias de Open Innovation, a empresa tem um hub de inovação - o <a href=\"https://www.sinqia.com.br/inovacao-torq/\" target=\"_blank\">Torq</a> – que destinou mais de R$ 50 milhões a fundos de Corporate Venture Capital para investimento em startups que entregam tecnologia ao mercado financeiro nos próximos 5 anos.",
+      "Melhor que isso, só adicionando a lente de gênero à conta.",
+      "É aí que entramos em cena, e a gente já inaugura essa grande parceria com uma iniciativa voltada a <b>mulheres fundadoras ou líderes de fintechs</b>: um <b>Pitch Day</b> exclusivo para elas, promovido pela WE Impact em conjunto com o Torq.",
+      "Acesso a <b>mentorias</b>, indicações para os maiores hubs e <b>programas de aceleração</b> do ecossistema, possibilidade de <b>investimentos</b>, parcerias comerciais e negócios com a Sinqia, WE Impact e nossas corporações parceiras são algumas das oportunidades que estarão na mesa. Explicamos tudo sobre o evento, que acontece no dia <b>23 de novembro</b> e está com <b>inscrições abertas até o dia 18 (esta quinta!)</b>, no <a href=\"https://www.weimpact.tech/sinqia-e-we-impact-fintechs/\" target=\"_blank\">novo artigo do nosso blog</a>.",
+      "O objetivo dessa primeira ação, assim como da parceria, é não só promover a conexão de empreendedoras a especialistas desse mercado e criar oportunidades de negócios e investimentos, como também conquistar cada vez mais aliadas dessa agenda no mundo corporativo.",
+      "Lugar de mulher é onde o dinheiro está! ;)"
     ],
-    "linkBotao": "https://revistapegn.globo.com/Mulheres-empreendedoras/noticia/2021/07/we-impact-venture-builder-focada-em-startups-lideradas-por-mulheres-recebe-aporte-de-r-1-milhao-da-kpmg.html",
-    "botao": "botao JSON"
+    "linkBotao": "https://conteudo.sinqia.com.br/pitch-day-torq-we-impact",
+    "botao": "Inscreva-se até 18 de novembro"
   },
   "compartilhe": {
     "texto": [
@@ -28,30 +26,34 @@
   },
   "weImpactNetwork": {
     "tituloSecao": "#WIN – WE Impact Network",
-    "titulo": "Título JSON",
+    "titulo": "Como a Pontue multiplicou 20x as suas conversões",
     "img": "./img/Foto_WIN_08.png",
-    "alt": "alt",
-    "linkedinAutora": "https://br.linkedin.com/in/naravazguimaraes",
-    "nomeAutora": "Nome JSON",
-    "descricaoAutora": "descrição JSON",
-    "texto": "texto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "alt": "FOTO Cris Miura, cofundadora e CEO da Pontue",
+    "linkedinAutora": "https://www.linkedin.com/in/crismiura/",
+    "nomeAutora": "Cris Miura",
+    "descricaoAutora": "cofundadora e CEO da Pontue",
+    "texto": [
+      "No mês do <b>Empreendedorismo Feminino</b>, nada melhor que compartilhar com vocês um <b>case de sucesso</b> da nossa primeira startup investida.",
+      "Cris Miura, cofundadora e CEO da Pontue, plataforma SaaS de aprendizagem para escolas do Ensino Fundamental ao Pré-Vestibular, contou tudo sobre como uma mudança na sua estratégia de prospecção garantiu <b>um aumento de 20 vezes na conversão de novos clientes</b> e ainda <b>reduziu o CAC (Custo de Aquisição de Clientes)</b>.",
+      "“Criamos uma jornada na qual <b>quem qualifica o cliente é o próprio produto</b>: quanto mais ele interage com a plataforma, mais sei que ele está pronto para comprar. Isso permitiu uma <b>maior assertividade do nosso time comercial</b>. Conhecemos a fundo, e cada vez mais, as dores do nosso público: usabilidade e interface são extremamente importantes”, ela destaca."
+    ],
     "tituloLista": "título lista JSON",
     "textoLista": "texto lista JSON",
-    "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
-    "botao": "botao JSON"
+    "linkBotao": "https://news.microsoft.com/pt-br/startup-pontue-multiplica-20-vezes-conversao-de-clientes-ao-adotar-modelo-freemium/",
+    "botao": "Clique para ler mais"
   },
   "diversidadeNaPratica": {
     "tituloSecao": "#DiversidadenaPrática",
     "titulo": "Título JSON",
     "img": "./img/Imagem_DiversidadenaPratica_N08.png",
-    "alt": "alt",
+    "alt": "FOTO Isabela Del Monde, Gema Consultoria em Equidade",
     "texto": [
       "Contratar mais mulheres e pessoas diversas é um dos caminhos para promover a diversidade nas empresas - não o único. É natural que se pense primeiro no time: comprovadamente, construir times mais diversos é um fator fundamental para alcançar esse objetivo. O segredo é não parar por aí.",
       "Pensa bem... Pessoas são o centro de qualquer organização. E sabe quem mais também são pessoas, além das que trabalham na sua empresa? Seus fornecedores. Seus clientes. Seus parceiros. Você pensa em diversidade na hora de tomar decisões nessas outras áreas? Observa a representatividade feminina e práticas internas ligadas a gênero entre prestadores de serviços que contrata? E na hora de criar e validar sua solução, consultou mulheres e/ou pessoas totalmente diferentes de você?",
       "A diversidade pode e deve estar presente em toda a jornada de uma startup. Isso é o que propõe o conceito “diversidade by design”. Se você já conhece a nossa cartilha, sabe do que estamos falando. Se não, ainda dá tempo de fazer o download e aprender sobre os inúmeros mecanismos existentes para aplicar a #diversidadenaprática."
     ],
     "tituloLista": "título lista JSON",
-    "textoLista": "texto lista JSON",
+    "textoLista": ["texto lista JSON", "TEXTO 2"],
     "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
     "botao": "botao JSON"
   },
@@ -59,7 +61,7 @@
     "tituloSecao": "#DicadaCEO",
     "titulo": "Título JSON",
     "img": "./img/Foto_DicadaCEO_N08.png",
-    "alt": "Camila Nasser, CEO da Kria",
+    "alt": "imagem ilustrativa",
     "texto": [
       "“O Venture Capital está passando por um momento de altíssima liquidez, com entrada de um maior e mais diverso mix de capitais em busca de investir no próximo grande negócio. Isso faz com que as rodadas de investimento sejam mais rápidas e o volume investido, maior. Como retratado pelo investidor Mark Suster, antes os fundos tinham tempo para acompanhar a evolução do negócio (e o seu product market fit) antes de investir. Hoje, o founder-market-fit é o novo product-market-fit: a força das tomadas de decisão está em investir na pessoa certa.",
       "Com esse novo contexto, um futuro mais diverso no Venture Capital dependerá da capacidade dos investidores de encararem e trabalharem seus vieses inconscientes, e se abrirem para pessoas de fora de suas redes de contato.\""
@@ -71,31 +73,35 @@
   "elasImpactam": {
     "tituloSecao": "#ElasImpactam",
     "img": "https://weimpact-tech.github.io/newsletter-2/img/Imagem_ElasImpactam.png",
-    "alt": "alt",
+    "alt": "imagem ilustrativa",
+    "titulo": "Um convite para você, mulher empreendedora",
     "texto": [
-      "“Eu amava estar à frente das mídias sociais da companhia, mas não gostava de ser a única mulher em todas as salas de reunião. Queria incentivar empreendedoras a começarem negócios. Mas como poderia encorajá-las se eu mesma não fizesse isso?”. Essa foi a motivação de Randi Zuckerberg, irmã do fundador do Facebook, para criar sua própria empresa em 2011.",
-      "Com produções para a televisão e empresas, a Zuckerberg Media promove o aumento da presença feminina em vários setores. No caso da animação infantil “Dot”, a ideia é inserir o interesse pela tecnologia nos primeiros anos de vida das meninas – de acordo com pesquisas da executiva, elas começam a se afastar dessa área antes mesmo dos nove anos.",
-      "Randi também afirma que agora é uma ótima hora para entrar em setores como cripto, machine learning e realidade virtual. “E se, em vez de tentarmos alcançar uma indústria já dominada pelos homens, entrarmos em outras que ainda são novas e não estão tomadas por eles?”, ela sugere.",
-      "Fonte: Forbes Brasil"
+      "No Dia Mundial do Empreendedorismo Feminino, 19 de novembro, estaremos falando sobre captação de investimentos no evento <b>O Voo Delas – A Transformação de Todos</b>, promovido pelo Estadão.",
+      "Nossa CEO, <b>Lícia Souza</b>, participa do encontro ao lado de grandes líderes inspiradoras - como <b>Luiza Helena Trajano</b> (Magalu), <b>Fernanda Ribeiro</b> (Conta Black) e <b>Camila Farani</b> (G2 Capital).",
+      "A programação, que será transmitido nas redes sociais do veículo, vai abordar temas como <b>transição de carreira, empreendedorismo após os 50</b>, o que as empresas têm feito pelas mulheres e como ir <b>do zero ao unicórnio</b>. Participe!",
+      "<b>SAVE THE DATE</b>",
+      "<b>Data:</b> 19 de novembro 2021",
+      "<b>Horário:</b> 9h às 14h10 (o painel com a nossa participação começa às 11h30!)",
+      "<b>Inscreva-se <a href=\"https://event.on24.com/wcc/r/3513121/8FA7081F911C1779DAA19C3E3278BD96?partnerref=EmailConvite\" target=\"_blank\">aqui</a></b>"
     ],
     "textoLista": "texto lista JSON"
   },
   "naMidia": {
     "tituloSecao": "#NaMídia",
     "img": "./img/NasMidias_N08.png",
-    "alt": "Investidores sentados em uma mesa",
+    "alt": "imagem ilustrativa",
     "titulo": "<strong>De mulher para mulher: investidoras fortalecem ecossistema para empresárias</strong>",
-    "texto": "“Uma mulher puxa a outra para o topo - e então puxa outra e por aí vai.”, assim começa a matéria do Broadcast, do Estadão, que fala sobre a importância de mulheres investidoras para o aumento do investimento em empresas com liderança feminina. Nossa CEO, Lícia Souza, foi uma das entrevistadas!",
-    "linkBotao": "http://www.broadcast.com.br/cadernos/financeiro/?id=bGw1THRCY21XZlo3N2ZRVVBSMTV1Zz09",
+    "texto": "<b>A WE Impact Network não para de crescer, você reparou?</b> Em uma onda de grandes e promissoras conexões, também tornamos pública, neste mês, a parceria firmada entre a WE Impact e o <b>BR Angels</b>, grupo de investidores Anjo que reúne mais de 150 CEOs, executivos e executivas de grandes corporações. Esse aliado de peso chega para contribuir com o nosso propósito de <b>investir em mulheres</b> e promover uma maior equidade de gênero e diversidade no ecossistema de startups. Juntos, vamos <b>criar oportunidades</b> de investimento, desenvolvimento e negócios para fundadoras e líderes de startups.",
+    "linkBotao": "https://blogs.oglobo.globo.com/pense-grande/post/br-angels-e-we-impact-buscam-start-ups-de-tecnologia-lideradas-por-mulheres-para-investimento-conjunto.html",
     "botao": "Leia a matéria"
   },
   "nasRedes": {
     "tituloSecao": "#NasRedes",
     "img": "./img/NaRede_N08.png",
-    "alt": "Frase “como criar uma startup, empreendendo do zero”",
+    "alt": "imagem ilustrativa",
     "titulo": "Perdeu esse conteúdo?",
-    "texto": "Como criar uma startup do zero? Tem artigo no nosso blog sobre esse tema. E também registramos alguns questionamentos super importantes para o momento de começar a empreender em tecnologia nesse post no Instagram. Como criar uma startup do zero? Tem artigo no nosso blog sobre esse tema. E também registramos alguns questionamentos super importantes para o momento de começar a empreender em tecnologia nesse post no Instagram.",
-    "linkBotao": "https://www.instagram.com/p/CSsV1z4HzqJ/",
+    "texto": "Compartilhamos recentemente, no nosso Linkedin, um artigo do blog WE Impact preparado para acabar com todas as suas dúvidas sobre o nosso modelo de atuação. Confira o conteúdo para entender de uma vez por todas o que significar dizer que somos uma <b>venture builder</b> e como adicionamos a esse conceito - que já é inovador por si só - diferenciais ainda mais vantajosos para impulsionar o sucesso da sua startup.",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6862509253303795712",
     "botao": "Clique para conferir"
   },
   "saveTheDate": {

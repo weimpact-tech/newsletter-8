@@ -11,7 +11,6 @@ import { htmlElasImpactam } from "./modules/elasImpactam.mjs";
 import { htmlDivisor } from "./modules/divisor.mjs";
 import { htmlNaMidia } from "./modules/naMidia.mjs";
 import { htmlNasRedes } from "./modules/nasRedes.mjs";
-import { htmlSaveTheDate } from "./modules/saveTheDate.mjs";
 import { htmlEndBody } from "./modules/endBody.mjs";
 import { htmlFooter } from "./modules/footer.mjs";
 
@@ -29,8 +28,6 @@ var htmlContent =
   htmlDivisor +
   htmlNaMidia +
   htmlNasRedes +
-  htmlDivisor +
-  htmlSaveTheDate +
   htmlEndBody +
   htmlFooter;
 
