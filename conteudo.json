@@ -44,18 +44,19 @@
   },
   "diversidadeNaPratica": {
     "tituloSecao": "#DiversidadenaPrática",
-    "titulo": "Título JSON",
+    "titulo": "O que fazer (e o que não fazer)",
     "img": "./img/Imagem_DiversidadenaPratica_N08.png",
     "alt": "FOTO Isabela Del Monde, Gema Consultoria em Equidade",
     "texto": [
-      "Contratar mais mulheres e pessoas diversas é um dos caminhos para promover a diversidade nas empresas - não o único. É natural que se pense primeiro no time: comprovadamente, construir times mais diversos é um fator fundamental para alcançar esse objetivo. O segredo é não parar por aí.",
-      "Pensa bem... Pessoas são o centro de qualquer organização. E sabe quem mais também são pessoas, além das que trabalham na sua empresa? Seus fornecedores. Seus clientes. Seus parceiros. Você pensa em diversidade na hora de tomar decisões nessas outras áreas? Observa a representatividade feminina e práticas internas ligadas a gênero entre prestadores de serviços que contrata? E na hora de criar e validar sua solução, consultou mulheres e/ou pessoas totalmente diferentes de você?",
-      "A diversidade pode e deve estar presente em toda a jornada de uma startup. Isso é o que propõe o conceito “diversidade by design”. Se você já conhece a nossa cartilha, sabe do que estamos falando. Se não, ainda dá tempo de fazer o download e aprender sobre os inúmeros mecanismos existentes para aplicar a #diversidadenaprática."
+      "A <b>diversidade e a inclusão</b> impactam positivamente as empresas: aumentam a inovação, a lucratividade, a retenção de talentos e a qualidade das tomadas de decisões, melhora o atendimento de clientes, a motivação do time e a sua reputação.",
+      "Mesmo assim, a jornada até lá é longa e exige muito comprometimento, erros e acertos. Não existe fórmula mágica para conquistar uma equipe diversa, mas uma série de práticas podem ser promovidas, <b>enquanto outras que devem ser evitadas.</b>",
+      "Conversamos sobre esse tema com <a href=\"https://www.linkedin.com/in/isabela-guimar%C3%A3es-del-monde-40498027/?originalSubdomain=br\" target=\"_blank\">Isabela Del Monde</a>, coordenadora do #MeTooBrasil, cofundadora da de FEMde - Rede Feminista de Juristas, colunista Universa UOL e vencedora do Prêmio Geração Glamour deste ano na categoria Justiça graças à trajetória em prol dos direitos femininos e da equidade.",
+      "Além disso, ela é uma das sócias fundadoras da Gema Consultoria em Equidade, que foi nossa parceira na produção da cartilha <a href=\"https://startups.weimpact.tech/weps-para-startups\" target=\"_blank\">Princípios de Empoderamento das Mulheres para Startups</a>. A entrevista ficou incrível e você pre-ci-sa conferir!"
     ],
     "tituloLista": "título lista JSON",
     "textoLista": ["texto lista JSON", "TEXTO 2"],
-    "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
-    "botao": "botao JSON"
+    "linkBotao": "https://www.weimpact.tech/diversidade-nas-organizacoes/",
+    "botao": "Leia a entrevista"
   },
   "dicaDaCEO": {
     "tituloSecao": "#DicadaCEO",
